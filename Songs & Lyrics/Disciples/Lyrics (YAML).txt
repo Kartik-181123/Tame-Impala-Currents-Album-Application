@@ -1,0 +1,102 @@
+version: '1.0'
+metadata:
+  title: Disciples
+  artist: Tame Impala
+  album: Tame Impala Videos
+  duration_ms: 109000
+  instrumental: false
+lines:
+- text: '''Cause I was still unsure'
+  start_ms: 350
+  end_ms: 4210
+- text: But it's something I'm used to
+  start_ms: 4210
+  end_ms: 7770
+- text: And I can tell by your face
+  start_ms: 7770
+  end_ms: 11720
+- text: No one's ever been rude to you
+  start_ms: 11720
+  end_ms: 15590
+- text: When I could tell you things
+  start_ms: 15590
+  end_ms: 19330
+- text: That I can't say to anyone
+  start_ms: 19330
+  end_ms: 23020
+- text: And you came home today
+  start_ms: 23020
+  end_ms: 27070
+- text: But you didn't stay very long
+  start_ms: 27070
+  end_ms: 45890
+- text: Now it's like the world owes you
+  start_ms: 45890
+  end_ms: 48500
+- text: Walking around like everybody should know you
+  start_ms: 48500
+  end_ms: 53010
+- text: I wanna be like we used to
+  start_ms: 53010
+  end_ms: 55720
+- text: But now you're worried whose audience will lose you
+  start_ms: 55720
+  end_ms: 60820
+- text: And I had no idea
+  start_ms: 60820
+  end_ms: 64800
+- text: What that feeling could do to you
+  start_ms: 64800
+  end_ms: 68190
+- text: And I could tell you've changed
+  start_ms: 68190
+  end_ms: 72060
+- text: By the people around you
+  start_ms: 72060
+  end_ms: 76060
+- text: I used to take the long way
+  start_ms: 76060
+  end_ms: 79840
+- text: Just so I could walk past your door
+  start_ms: 79840
+  end_ms: 83510
+- text: I used to wait outside
+  start_ms: 83510
+  end_ms: 87670
+- text: But I guess I won't anymore
+  start_ms: 87670
+  end_ms: 97620
+- text: There's so much I wanna tell you
+  start_ms: 97620
+  end_ms: 101530
+- text: So long, I wanna be there
+  start_ms: 101530
+  end_ms: 105240
+- text: ''
+  start_ms: 105240
+plain: |-
+  'Cause I was still unsure
+  But it's something I'm used to
+  And I can tell by your face
+  No one's ever been rude to you
+  When I could tell you things
+  That I can't say to anyone
+  And you came home today
+  But you didn't stay very long
+
+  Now it's like the world owes you
+  Walking around like everybody should know you
+  I wanna be like we used to
+  But now you're worried whose audience will lose you
+
+  And I had no idea
+  What that feeling could do to you
+  And I could tell you've changed
+  By the people around you
+  I used to take the long way
+  Just so I could walk past your door
+  I used to wait outside
+  But I guess I won't anymore
+
+  There's so much I wanna tell you
+  So long, I wanna be there

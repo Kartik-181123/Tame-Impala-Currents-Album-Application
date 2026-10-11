@@ -1,0 +1,161 @@
+version: '1.0'
+metadata:
+  title: Tame Impala - Eventually
+  artist: Tame Impala
+  album: Tame Impala - Eventually
+  duration_ms: 320000
+  instrumental: false
+lines:
+- text: If only there could be another way to do this
+  start_ms: 16640
+  end_ms: 25180
+- text: ''
+  start_ms: 25180
+  end_ms: 28740
+- text: '''Cause it feels like murder to put your heart through this'
+  start_ms: 28740
+  end_ms: 41180
+- text: I know I always said that I could never hurt you
+  start_ms: 41180
+  end_ms: 47940
+- text: Well, this is the very, very last time I'm ever going to
+  start_ms: 47940
+  end_ms: 71630
+- text: ''
+  start_ms: 71630
+  end_ms: 75710
+- text: But I know that I'll be happier
+  start_ms: 75710
+  end_ms: 80470
+- text: And I know you will too
+  start_ms: 80470
+  end_ms: 84820
+- text: Said, I know that I'll be happier
+  start_ms: 84820
+  end_ms: 89620
+- text: And I know you will too
+  start_ms: 89620
+  end_ms: 94240
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 94240
+  end_ms: 101960
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 101960
+  end_ms: 110850
+- text: ''
+  start_ms: 110850
+  end_ms: 133470
+- text: Wish I could turn you back into a stranger
+  start_ms: 133470
+  end_ms: 143040
+- text: ''
+  start_ms: 143040
+  end_ms: 145590
+- text: '''Cause if I was never in your life'
+  start_ms: 145590
+  end_ms: 149690
+- text: You wouldn't have to change it
+  start_ms: 149690
+  end_ms: 154990
+- text: ''
+  start_ms: 154990
+  end_ms: 158820
+- text: But I know that I'll be happier
+  start_ms: 158820
+  end_ms: 163420
+- text: And I know you will too
+  start_ms: 163420
+  end_ms: 167980
+- text: Said, I know that I'll be happier
+  start_ms: 167980
+  end_ms: 172680
+- text: And I know you will too
+  start_ms: 172680
+  end_ms: 177300
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 177300
+  end_ms: 185000
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 185000
+  end_ms: 192760
+- text: And I know just what I've got to do
+  start_ms: 192760
+  end_ms: 197330
+- text: And it's got to be soon
+  start_ms: 197330
+  end_ms: 201960
+- text: '''Cause I know that I''ll be happier'
+  start_ms: 201960
+  end_ms: 204620
+- text: And I know you will too
+  start_ms: 204620
+  end_ms: 208250
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 208250
+  end_ms: 218850
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 218850
+  end_ms: 226780
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 226780
+  end_ms: 234670
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 234670
+  end_ms: 241960
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 241960
+  end_ms: 249770
+- text: Eventually, ah-ah, ah, ah-ah
+  start_ms: 249770
+  end_ms: 257370
+- text: Eventually
+  start_ms: 257370
+  end_ms: 261050
+- text: ''
+  start_ms: 261050
+  end_ms: 264620
+- text: Eventually
+  start_ms: 264620
+  end_ms: 265520
+- text: ''
+  start_ms: 265520
+plain: |-
+  If only there could be another way to do this
+  'Cause it feels like murder to put your heart through this
+  I know I always said that I could never hurt you
+  Well, this is the very, very last time I'm ever going to
+
+  But I know that I'll be happier
+  And I know you will too
+  Said, I know that I'll be happier
+  And I know you will too
+
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+
+  Wish I could turn you back into a stranger
+  'Cause if I was never in your life
+  You wouldn't have to change it
+
+  But I know that I'll be happier
+  And I know you will too
+  Said, I know that I'll be happier
+  And I know you will too
+
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+
+  And I know just what I've got to do
+  And it's got to be soon
+  'Cause I know that I'll be happier
+  And I know you will too
+
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+  Eventually, ah-ah, ah, ah-ah
+
+  Eventually
+  Eventually

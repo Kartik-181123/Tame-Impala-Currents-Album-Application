@@ -1,0 +1,210 @@
+version: '1.0'
+metadata:
+  title: Reality In Motion
+  artist: Tame Impala
+  album: Tame Impala
+  duration_ms: 252000
+  instrumental: false
+lines:
+- text: I'm edging closer, shivers all over
+  start_ms: 8240
+  end_ms: 12300
+- text: It's way too real, I'm way too sober
+  start_ms: 12300
+  end_ms: 16300
+- text: Usually they've got you covered all over
+  start_ms: 16300
+  end_ms: 20510
+- text: Lack of composure, I'm walking over
+  start_ms: 20510
+  end_ms: 24820
+- text: What will I do?
+  start_ms: 24820
+  end_ms: 27830
+- text: I never had a chance to
+  start_ms: 27830
+  end_ms: 32090
+- text: There's no one else around you
+  start_ms: 32090
+  end_ms: 36280
+- text: Not that I was waiting, vision ever fading
+  start_ms: 36280
+  end_ms: 40570
+- text: Heading for the deep end
+  start_ms: 40570
+  end_ms: 44550
+- text: Soon as I remember, baby, I surrender
+  start_ms: 44550
+  end_ms: 48900
+- text: I just need to breathe out
+  start_ms: 48900
+  end_ms: 52930
+- text: Decision time approaching, reality in motion
+  start_ms: 52930
+  end_ms: 62440
+- text: Trying to be patient but I'm feeling ancient
+  start_ms: 62440
+  end_ms: 66660
+- text: Trying to control the way that I'm facing
+  start_ms: 66660
+  end_ms: 71590
+- text: Suppose that I didn't care anymore
+  start_ms: 71590
+  end_ms: 75980
+- text: Fate can decide, I can ignore
+  start_ms: 75980
+  end_ms: 79900
+- text: I'll just pretend that I always knew
+  start_ms: 79900
+  end_ms: 86590
+- text: That I had the chance to
+  start_ms: 86590
+  end_ms: 90360
+- text: There's no one else around you
+  start_ms: 90360
+  end_ms: 94540
+- text: Not that I was waiting, vision ever fading
+  start_ms: 94540
+  end_ms: 99090
+- text: Making such a promise
+  start_ms: 99090
+  end_ms: 103090
+- text: Only leads to heartache, closer to an earthquake
+  start_ms: 103090
+  end_ms: 107330
+- text: Talked about in Hollywood
+  start_ms: 107330
+  end_ms: 111300
+- text: Trying to stay in motion
+  start_ms: 111300
+  end_ms: 116160
+- text: It made my heart run in circles and overflow
+  start_ms: 116160
+  end_ms: 124390
+- text: And I was closer than ever to letting go
+  start_ms: 124390
+  end_ms: 132570
+- text: It made my heart run in circles and overdrive
+  start_ms: 132570
+  end_ms: 140990
+- text: And I was closer than ever to feeling alive
+  start_ms: 140990
+  end_ms: 149240
+- text: It made my heart run in circles and overflow
+  start_ms: 149240
+  end_ms: 157600
+- text: And I was closer than ever to letting go
+  start_ms: 157600
+  end_ms: 166210
+- text: It made my heart run in circles and overdrive
+  start_ms: 166210
+  end_ms: 174290
+- text: And I was closer than ever to feeling alive
+  start_ms: 174290
+  end_ms: 182210
+- text: There's no one else around you
+  start_ms: 182210
+  end_ms: 186620
+- text: Not that I was waiting, vision ever fading
+  start_ms: 186620
+  end_ms: 190800
+- text: Heading for the deep end
+  start_ms: 190800
+  end_ms: 195030
+- text: Soon as I remember, baby, I surrender
+  start_ms: 195030
+  end_ms: 199050
+- text: I just need to breathe out
+  start_ms: 199050
+  end_ms: 203000
+- text: Decision time approaching, reality in motion
+  start_ms: 203000
+  end_ms: 207520
+- text: Let's not think about it
+  start_ms: 207520
+  end_ms: 211520
+- text: Put your arms around me, I can sense you doubt me
+  start_ms: 211520
+  end_ms: 215750
+- text: You don't need to promise
+  start_ms: 215750
+  end_ms: 219720
+- text: That only leads to heartache, closer to an earthquake
+  start_ms: 219720
+  end_ms: 224160
+- text: Talked about in Hollywood
+  start_ms: 224160
+  end_ms: 228100
+- text: All there's left to do, all there's left to do
+  start_ms: 228100
+  end_ms: 232290
+- text: All there's left to do, all there's left to do
+  start_ms: 232290
+  end_ms: 236550
+- text: All there's left to do, all there's left to do
+  start_ms: 236550
+  end_ms: 240680
+- text: All there's left to do, all there's left to do
+  start_ms: 240680
+  end_ms: 244990
+- text: All there's left to do, all-
+  start_ms: 244990
+  end_ms: 248050
+- text: ''
+  start_ms: 248050
+plain: |-
+  I'm edging closer, shivers all over
+  It's way too real, I'm way too sober
+  Usually they've got you covered all over
+  Lack of composure, I'm walking over
+  What will I do?
+  I never had a chance to
+
+  There's no one else around you
+  Not that I was waiting, vision ever fading
+  Heading for the deep end
+  Soon as I remember, baby, I surrender
+  I just need to breathe out
+  Decision time approaching, reality in motion
+
+  Trying to be patient but I'm feeling ancient
+  Trying to control the way that I'm facing
+  Suppose that I didn't care anymore
+  Fate can decide, I can ignore
+  I'll just pretend that I always knew
+  That I had the chance to
+
+  There's no one else around you
+  Not that I was waiting, vision ever fading
+  Making such a promise
+  Only leads to heartache, closer to an earthquake
+  Talked about in Hollywood
+  Trying to stay in motion
+
+  It made my heart run in circles and overflow
+  And I was closer than ever to letting go
+  It made my heart run in circles and overdrive
+  And I was closer than ever to feeling alive
+  It made my heart run in circles and overflow
+  And I was closer than ever to letting go
+  It made my heart run in circles and overdrive
+  And I was closer than ever to feeling alive
+
+  There's no one else around you
+  Not that I was waiting, vision ever fading
+  Heading for the deep end
+  Soon as I remember, baby, I surrender
+  I just need to breathe out
+  Decision time approaching, reality in motion
+
+  Let's not think about it
+  Put your arms around me, I can sense you doubt me
+  You don't need to promise
+  That only leads to heartache, closer to an earthquake
+  Talked about in Hollywood
+
+  All there's left to do, all there's left to do
+  All there's left to do, all there's left to do
+  All there's left to do, all there's left to do
+  All there's left to do, all there's left to do
+  All there's left to do, all-

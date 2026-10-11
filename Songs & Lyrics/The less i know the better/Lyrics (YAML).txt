@@ -1,0 +1,159 @@
+version: '1.0'
+metadata:
+  title: Tame Impala - The Less I Know The Better
+  artist: Tame Impala
+  album: Tame Impala - The Less I Know The Better
+  duration_ms: 218000
+  instrumental: false
+lines:
+- text: Someone said they left together
+  start_ms: 24650
+  end_ms: 28920
+- text: I ran out the door to get her
+  start_ms: 28920
+  end_ms: 32900
+- text: She was holding hands with Trevor
+  start_ms: 32900
+  end_ms: 37050
+- text: Not the greatest feeling ever
+  start_ms: 37050
+  end_ms: 41810
+- text: Said, "Pull yourself together
+  start_ms: 41810
+  end_ms: 45070
+- text: You should try your luck with Heather"
+  start_ms: 45070
+  end_ms: 49110
+- text: Then I heard they slept together
+  start_ms: 49110
+  end_ms: 53160
+- text: Oh, the less I know the better
+  start_ms: 53160
+  end_ms: 59500
+- text: ''
+  start_ms: 59500
+  end_ms: 62080
+- text: The less I know the better
+  start_ms: 62080
+  end_ms: 65990
+- text: Oh my love, can't you see yourself by my side?
+  start_ms: 65990
+  end_ms: 74080
+- text: No surprise when you're on his shoulder like every night
+  start_ms: 74080
+  end_ms: 82400
+- text: Oh my love, can't you see that you're on my mind?
+  start_ms: 82400
+  end_ms: 90130
+- text: Don't suppose we could convince your lover to change his mind
+  start_ms: 90130
+  end_ms: 98610
+- text: So goodbye
+  start_ms: 98610
+  end_ms: 103690
+- text: ''
+  start_ms: 103690
+  end_ms: 106910
+- text: She said, "It's not now or never
+  start_ms: 106910
+  end_ms: 110980
+- text: Wait ten years, we'll be together"
+  start_ms: 110980
+  end_ms: 114900
+- text: I said, "Better late than never
+  start_ms: 114900
+  end_ms: 119050
+- text: Just don't make me wait forever"
+  start_ms: 119050
+  end_ms: 127250
+- text: Don't make me wait forever
+  start_ms: 127250
+  end_ms: 133210
+- text: ''
+  start_ms: 133210
+  end_ms: 135950
+- text: Don't make me wait forever
+  start_ms: 135950
+  end_ms: 139960
+- text: Oh my love, can't you see yourself by my side?
+  start_ms: 139960
+  end_ms: 147980
+- text: I don't suppose you could convince your lover to change his mind
+  start_ms: 147980
+  end_ms: 157020
+- text: I was doing fine without ya
+  start_ms: 157020
+  end_ms: 161020
+- text: '''Til I saw your face, now I can''t erase'
+  start_ms: 161020
+  end_ms: 165130
+- text: Giving in to all his bullshit
+  start_ms: 165130
+  end_ms: 169080
+- text: Is this what you want? Is this who you are?
+  start_ms: 169080
+  end_ms: 173130
+- text: I was doing fine without ya
+  start_ms: 173130
+  end_ms: 177100
+- text: '''Til I saw your eyes turn away from mine'
+  start_ms: 177100
+  end_ms: 181220
+- text: Oh, sweet darling, where he wants you
+  start_ms: 181220
+  end_ms: 185230
+- text: Said, "Come on Superman, say your stupid line"
+  start_ms: 185230
+  end_ms: 193280
+- text: Said, "Come on Superman, say your stupid line"
+  start_ms: 193280
+  end_ms: 201270
+- text: Said, "Come on Superman, say your stupid line"
+  start_ms: 201270
+  end_ms: 205680
+- text: ''
+  start_ms: 205680
+plain: |-
+  Someone said they left together
+  I ran out the door to get her
+  She was holding hands with Trevor
+  Not the greatest feeling ever
+
+  Said, "Pull yourself together
+  You should try your luck with Heather"
+  Then I heard they slept together
+  Oh, the less I know the better
+
+  The less I know the better
+
+  Oh my love, can't you see yourself by my side?
+  No surprise when you're on his shoulder like every night
+  Oh my love, can't you see that you're on my mind?
+  Don't suppose we could convince your lover to change his mind
+  So goodbye
+
+  She said, "It's not now or never
+  Wait ten years, we'll be together"
+  I said, "Better late than never
+  Just don't make me wait forever"
+
+  Don't make me wait forever
+
+  Don't make me wait forever
+
+  Oh my love, can't you see yourself by my side?
+  I don't suppose you could convince your lover to change his mind
+
+  I was doing fine without ya
+  'Til I saw your face, now I can't erase
+  Giving in to all his bullshit
+  Is this what you want? Is this who you are?
+
+  I was doing fine without ya
+  'Til I saw your eyes turn away from mine
+  Oh, sweet darling, where he wants you
+  Said, "Come on Superman, say your stupid line"
+
+  Said, "Come on Superman, say your stupid line"
+
+  Said, "Come on Superman, say your stupid line"

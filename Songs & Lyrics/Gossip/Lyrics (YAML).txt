@@ -1,0 +1,8 @@
+version: '1.0'
+metadata:
+  title: Gossip
+  artist: Tame Impala
+  album: Currents (2015) 24-44.1 FLAC-BBM - 06 Gossip
+  duration_ms: 55000
+  instrumental: true
+lines: []

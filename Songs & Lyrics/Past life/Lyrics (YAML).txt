@@ -1,0 +1,234 @@
+version: '1.0'
+metadata:
+  title: Past Life
+  artist: Tame Impala
+  album: Tame Impala
+  duration_ms: 228061
+  instrumental: false
+lines:
+- text: I was picking up a suit from the dry cleaners
+  start_ms: 13160
+  end_ms: 16250
+- text: Which is standard for me
+  start_ms: 16250
+  end_ms: 18190
+- text: Thursday, 12:30
+  start_ms: 18190
+  end_ms: 20520
+- text: I got a pretty solid routine these days
+  start_ms: 20520
+  end_ms: 23760
+- text: I don't know, it just works for me
+  start_ms: 23760
+  end_ms: 26670
+- text: Anyway, I was leaving
+  start_ms: 26670
+  end_ms: 29250
+- text: I was getting in my car
+  start_ms: 29250
+  end_ms: 30860
+- text: And I went to adjust the rear-view mirror
+  start_ms: 30860
+  end_ms: 33200
+- text: But in its reflection, just for a second
+  start_ms: 33200
+  end_ms: 36870
+- text: I saw a figure, started to trigger
+  start_ms: 36870
+  end_ms: 40130
+- text: Memories flooded back, it stopped me in my tracks
+  start_ms: 40130
+  end_ms: 43300
+- text: Who was that? It was my lover
+  start_ms: 43300
+  end_ms: 48870
+- text: A lover, from a past life
+  start_ms: 48870
+  end_ms: 52050
+- text: From a past life (feel like I saw a ghost)
+  start_ms: 52050
+  end_ms: 58720
+- text: From a past life (so unexpected)
+  start_ms: 58720
+  end_ms: 64810
+- text: From a past life (I was transfixed)
+  start_ms: 64810
+  end_ms: 71450
+- text: From a past life
+  start_ms: 71450
+  end_ms: 78910
+- text: Well, somewhere between a lover and a friend
+  start_ms: 78910
+  end_ms: 83270
+- text: It was different back then
+  start_ms: 83270
+  end_ms: 86210
+- text: Surreal, poetic but uncertain
+  start_ms: 86210
+  end_ms: 90160
+- text: Like a bizarre chick-flick with a confusing end
+  start_ms: 90160
+  end_ms: 94380
+- text: But I shut it down, closed it off
+  start_ms: 94380
+  end_ms: 97690
+- text: The sounds and smells I made myself forget
+  start_ms: 97690
+  end_ms: 100770
+- text: A cheap solution to black out regret, but it was real
+  start_ms: 100770
+  end_ms: 107100
+- text: It just feels like a past life
+  start_ms: 107100
+  end_ms: 111030
+- text: From a past life (crazy)
+  start_ms: 111030
+  end_ms: 117610
+- text: From a past life (It takes a lot to trip me out)
+  start_ms: 117610
+  end_ms: 121910
+- text: (I always wondered if you wanted my love)
+  start_ms: 121910
+  end_ms: 124780
+- text: For the first time
+  start_ms: 124780
+  end_ms: 130700
+- text: In a long time
+  start_ms: 130700
+  end_ms: 135250
+- text: (I always wondered if you wanted my love)
+  start_ms: 135250
+  end_ms: 140450
+- text: So I go about my day as normal
+  start_ms: 140450
+  end_ms: 142650
+- text: But I can't seem to pass it off as just a random event
+  start_ms: 142650
+  end_ms: 146150
+- text: It consumes me
+  start_ms: 146150
+  end_ms: 148580
+- text: I thought I was moving on, but I guess I was just switching off
+  start_ms: 148580
+  end_ms: 152430
+- text: And now I see my life as the banal slog it instantly became
+  start_ms: 152430
+  end_ms: 156520
+- text: And I don't know if I can go on the same
+  start_ms: 156520
+  end_ms: 159230
+- text: But I don't wanna dig up old bones
+  start_ms: 159230
+  end_ms: 162380
+- text: I mean, I don't even know if she has the same phone number
+  start_ms: 162380
+  end_ms: 166630
+- text: Who knows? Maybe she does
+  start_ms: 166630
+  end_ms: 170300
+- text: From a past life (I guess there's no harm in trying)
+  start_ms: 170300
+  end_ms: 176720
+- text: From a past life (what's the worst that could happen?)
+  start_ms: 176720
+  end_ms: 181330
+- text: (I only wondered if you wanted my love)
+  start_ms: 181330
+  end_ms: 184080
+- text: For the first time
+  start_ms: 184080
+  end_ms: 189870
+- text: In a long time
+  start_ms: 189870
+  end_ms: 194750
+- text: (I tried to say it but it never came out right)
+  start_ms: 194750
+  end_ms: 197990
+- text: Past life
+  start_ms: 197990
+  end_ms: 203030
+- text: From a past life
+  start_ms: 203030
+  end_ms: 207570
+- text: (You're not a stranger if you're always on my mind)
+  start_ms: 207570
+  end_ms: 210360
+- text: For the first time
+  start_ms: 210360
+  end_ms: 214350
+- text: (I know it's late, it just didn't feel right)
+  start_ms: 214350
+  end_ms: 216730
+- text: In a long time
+  start_ms: 216730
+  end_ms: 220380
+- text: ''
+  start_ms: 220380
+  end_ms: 222850
+- text: Hello?
+  start_ms: 222850
+  end_ms: 224640
+- text: ''
+  start_ms: 224640
+plain: |-
+  I was picking up a suit from the dry cleaners
+  Which is standard for me
+  Thursday, 12:30
+  I got a pretty solid routine these days
+  I don't know, it just works for me
+  Anyway, I was leaving
+  I was getting in my car
+  And I went to adjust the rear-view mirror
+
+  But in its reflection, just for a second
+  I saw a figure, started to trigger
+  Memories flooded back, it stopped me in my tracks
+  Who was that? It was my lover
+  A lover, from a past life
+
+  From a past life (feel like I saw a ghost)
+  From a past life (so unexpected)
+  From a past life (I was transfixed)
+  From a past life
+
+  Well, somewhere between a lover and a friend
+  It was different back then
+  Surreal, poetic but uncertain
+  Like a bizarre chick-flick with a confusing end
+  But I shut it down, closed it off
+  The sounds and smells I made myself forget
+  A cheap solution to black out regret, but it was real
+  It just feels like a past life
+
+  From a past life (crazy)
+  From a past life (It takes a lot to trip me out)
+  (I always wondered if you wanted my love)
+  For the first time
+  In a long time
+  (I always wondered if you wanted my love)
+
+  So I go about my day as normal
+  But I can't seem to pass it off as just a random event
+  It consumes me
+  I thought I was moving on, but I guess I was just switching off
+  And now I see my life as the banal slog it instantly became
+  And I don't know if I can go on the same
+  But I don't wanna dig up old bones
+  I mean, I don't even know if she has the same phone number
+  Who knows? Maybe she does
+
+  From a past life (I guess there's no harm in trying)
+  From a past life (what's the worst that could happen?)
+  (I only wondered if you wanted my love)
+  For the first time
+  In a long time
+  (I tried to say it but it never came out right)
+
+  Past life
+  From a past life
+  (You're not a stranger if you're always on my mind)
+  For the first time
+  (I know it's late, it just didn't feel right)
+  In a long time
+
+  Hello?

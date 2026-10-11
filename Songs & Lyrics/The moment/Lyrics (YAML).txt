@@ -1,0 +1,143 @@
+version: '1.0'
+metadata:
+  title: Tame Impala - The Moment (Audio)
+  artist: Tame Impala
+  album: Tame Impala
+  duration_ms: 256000
+  instrumental: false
+lines:
+- text: In the end, it's stronger than I know how to be
+  start_ms: 16610
+  end_ms: 24520
+- text: And I can't just spend my whole lifetime wondering
+  start_ms: 24520
+  end_ms: 32700
+- text: I fell in love with the sound of my heels on the wooden floor
+  start_ms: 32700
+  end_ms: 40770
+- text: I don't want our footsteps to be silent anymore
+  start_ms: 40770
+  end_ms: 47660
+- text: Want them to be in the moment
+  start_ms: 47660
+  end_ms: 53960
+- text: ''
+  start_ms: 53960
+  end_ms: 56040
+- text: Storm clouds are closing
+  start_ms: 56040
+  end_ms: 60690
+- text: ''
+  start_ms: 60690
+  end_ms: 63780
+- text: ''
+  start_ms: 63780
+  end_ms: 67010
+- text: In the end it's coming, there's nothing left to do
+  start_ms: 67010
+  end_ms: 75060
+- text: But I'm still not certain just how I'm gonna feel
+  start_ms: 75060
+  end_ms: 82110
+- text: I'll only know in the moment
+  start_ms: 82110
+  end_ms: 90390
+- text: Anticipation growing
+  start_ms: 90390
+  end_ms: 99160
+- text: It's getting closer
+  start_ms: 99160
+  end_ms: 103560
+- text: ''
+  start_ms: 103560
+  end_ms: 105990
+- text: Ooh, it's getting closer
+  start_ms: 105990
+  end_ms: 111430
+- text: ''
+  start_ms: 111430
+  end_ms: 115140
+- text: It's getting closer (I'm not ready)
+  start_ms: 115140
+  end_ms: 122080
+- text: Ooh, it's getting closer (I need a little more time)
+  start_ms: 122080
+  end_ms: 130260
+- text: ''
+  start_ms: 130260
+  end_ms: 187730
+- text: It's getting closer (closer every day)
+  start_ms: 187730
+  end_ms: 192650
+- text: (Don't cry, we'll be okay)
+  start_ms: 192650
+  end_ms: 195360
+- text: Ooh, it's getting closer (closer, wall of the dam)
+  start_ms: 195360
+  end_ms: 200720
+- text: (Hold on, and breathe if you can)
+  start_ms: 200720
+  end_ms: 203850
+- text: It's getting closer (closer, I'm not ready)
+  start_ms: 203850
+  end_ms: 210450
+- text: Ooh, it's getting closer (I need a little more time)
+  start_ms: 210450
+  end_ms: 218940
+- text: (Breathe if you can)
+  start_ms: 218940
+  end_ms: 220580
+- text: It's getting closer (I'm not ready yet)
+  start_ms: 220580
+  end_ms: 226740
+- text: Ooh, it's getting closer (I need a little more time)
+  start_ms: 226740
+  end_ms: 236500
+- text: It's getting closer
+  start_ms: 236500
+  end_ms: 239800
+- text: ''
+  start_ms: 239800
+  end_ms: 243520
+- text: Ooh, it's getting closer
+  start_ms: 243520
+  end_ms: 246010
+- text: ''
+  start_ms: 246010
+plain: |-
+  In the end, it's stronger than I know how to be
+  And I can't just spend my whole lifetime wondering
+  I fell in love with the sound of my heels on the wooden floor
+  I don't want our footsteps to be silent anymore
+
+  Want them to be in the moment
+
+  Storm clouds are closing
+
+  In the end it's coming, there's nothing left to do
+  But I'm still not certain just how I'm gonna feel
+
+  I'll only know in the moment
+
+  Anticipation growing
+
+  It's getting closer
+
+  Ooh, it's getting closer
+
+  It's getting closer (I'm not ready)
+  Ooh, it's getting closer (I need a little more time)
+
+  It's getting closer (closer every day)
+  (Don't cry, we'll be okay)
+  Ooh, it's getting closer (closer, wall of the dam)
+  (Hold on, and breathe if you can)
+  It's getting closer (closer, I'm not ready)
+  Ooh, it's getting closer (I need a little more time)
+  (Breathe if you can)
+  It's getting closer (I'm not ready yet)
+  Ooh, it's getting closer (I need a little more time)
+
+  It's getting closer
+
+  Ooh, it's getting closer

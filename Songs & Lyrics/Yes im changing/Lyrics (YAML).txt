@@ -1,0 +1,210 @@
+version: '1.0'
+metadata:
+  title: Tame Impala - Yes I'm Changing (Audio)
+  artist: Tame Impala
+  album: Tame Impala - Yes I'm Changing (Audio)
+  duration_ms: 272000
+  instrumental: false
+lines:
+- text: I was raging, it was late
+  start_ms: 24640
+  end_ms: 30110
+- text: In the world my demons cultivate
+  start_ms: 30110
+  end_ms: 33560
+- text: I felt the strangest emotion, but it wasn't hate
+  start_ms: 33560
+  end_ms: 39400
+- text: For once
+  start_ms: 39400
+  end_ms: 42520
+- text: ''
+  start_ms: 42520
+  end_ms: 45980
+- text: Yes, I'm changing, yes, I'm gone
+  start_ms: 45980
+  end_ms: 51460
+- text: Yes, I'm older, yes, I'm moving on
+  start_ms: 51460
+  end_ms: 55180
+- text: And if you don't think it's a crime, you can come along
+  start_ms: 55180
+  end_ms: 60640
+- text: With me
+  start_ms: 60640
+  end_ms: 64900
+- text: ''
+  start_ms: 64900
+  end_ms: 67380
+- text: Life is moving, can't you see?
+  start_ms: 67380
+  end_ms: 72830
+- text: There's no future left for you and me
+  start_ms: 72830
+  end_ms: 76750
+- text: I was hoping and I was searching endlessly
+  start_ms: 76750
+  end_ms: 81960
+- text: But, baby, now there's nothing left that
+  start_ms: 81960
+  end_ms: 86810
+- text: I can do
+  start_ms: 86810
+  end_ms: 91650
+- text: So don't be blue
+  start_ms: 91650
+  end_ms: 94560
+- text: ''
+  start_ms: 94560
+  end_ms: 97350
+- text: There is another future
+  start_ms: 97350
+  end_ms: 101030
+- text: Waiting there for you
+  start_ms: 101030
+  end_ms: 105790
+- text: ''
+  start_ms: 105790
+  end_ms: 109680
+- text: I saw it different, I must admit
+  start_ms: 109680
+  end_ms: 115140
+- text: I caught a glimpse, I'm going after it
+  start_ms: 115140
+  end_ms: 119490
+- text: They say people never change, but that's bullshit
+  start_ms: 119490
+  end_ms: 124720
+- text: They do
+  start_ms: 124720
+  end_ms: 128160
+- text: ''
+  start_ms: 128160
+  end_ms: 131240
+- text: Yes, I'm changing, can't stop it now
+  start_ms: 131240
+  end_ms: 136080
+- text: And even if I wanted I wouldn't know how
+  start_ms: 136080
+  end_ms: 140450
+- text: Another version of myself I think I've found
+  start_ms: 140450
+  end_ms: 146130
+- text: At last
+  start_ms: 146130
+  end_ms: 152230
+- text: And I can't always hide away
+  start_ms: 152230
+  end_ms: 157980
+- text: Curse indulgence and despise the fame
+  start_ms: 157980
+  end_ms: 161750
+- text: There is a world out there and it's calling my name
+  start_ms: 161750
+  end_ms: 167150
+- text: And it's calling yours, girl
+  start_ms: 167150
+  end_ms: 171170
+- text: It's calling yours too
+  start_ms: 171170
+  end_ms: 175870
+- text: ''
+  start_ms: 175870
+  end_ms: 181920
+- text: It's calling yours too
+  start_ms: 181920
+  end_ms: 189180
+- text: ''
+  start_ms: 189180
+  end_ms: 192610
+- text: It's calling yours too
+  start_ms: 192610
+  end_ms: 197060
+- text: ''
+  start_ms: 197060
+  end_ms: 202910
+- text: It's calling yours too
+  start_ms: 202910
+  end_ms: 207180
+- text: ''
+  start_ms: 207180
+  end_ms: 218140
+- text: It's calling out for you
+  start_ms: 218140
+  end_ms: 223460
+- text: Arise and walk on through (time rolls on)
+  start_ms: 223460
+  end_ms: 228720
+- text: The world beyond that door
+  start_ms: 228720
+  end_ms: 234020
+- text: Is calling out for you (time rolls on)
+  start_ms: 234020
+  end_ms: 239630
+- text: Arise and walk on through
+  start_ms: 239630
+  end_ms: 244810
+- text: It's calling out for you (listen to it call)
+  start_ms: 244810
+  end_ms: 250170
+- text: Arise and walk on through
+  start_ms: 250170
+  end_ms: 255220
+- text: A world beyond that door (listen to it call)
+  start_ms: 255220
+  end_ms: 260730
+- text: Is calling out for you
+  start_ms: 260730
+  end_ms: 263830
+- text: ''
+  start_ms: 263830
+plain: |-
+  I was raging, it was late
+  In the world my demons cultivate
+  I felt the strangest emotion, but it wasn't hate
+  For once
+
+  Yes, I'm changing, yes, I'm gone
+  Yes, I'm older, yes, I'm moving on
+  And if you don't think it's a crime, you can come along
+  With me
+
+  Life is moving, can't you see?
+  There's no future left for you and me
+  I was hoping and I was searching endlessly
+  But, baby, now there's nothing left that
+
+  I can do
+  So don't be blue
+  There is another future
+  Waiting there for you
+
+  I saw it different, I must admit
+  I caught a glimpse, I'm going after it
+  They say people never change, but that's bullshit
+  They do
+
+  Yes, I'm changing, can't stop it now
+  And even if I wanted I wouldn't know how
+  Another version of myself I think I've found
+  At last
+
+  And I can't always hide away
+  Curse indulgence and despise the fame
+  There is a world out there and it's calling my name
+  And it's calling yours, girl
+
+  It's calling yours too
+  It's calling yours too
+  It's calling yours too
+  It's calling yours too
+
+  It's calling out for you
+  Arise and walk on through (time rolls on)
+  The world beyond that door
+  Is calling out for you (time rolls on)
+  Arise and walk on through
+  It's calling out for you (listen to it call)
+  Arise and walk on through
+  A world beyond that door (listen to it call)
+  Is calling out for you

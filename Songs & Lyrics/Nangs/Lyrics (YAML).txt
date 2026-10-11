@@ -1,0 +1,76 @@
+version: '1.0'
+metadata:
+  title: Tame Impala - Nangs
+  artist: Tame Impala
+  album: Tame Impala - Nangs
+  duration_ms: 109000
+  instrumental: false
+lines:
+- text: But is there something more than that?
+  start_ms: 27420
+  end_ms: 32730
+- text: But is there something more than that?
+  start_ms: 32730
+  end_ms: 38380
+- text: But is there something more than that?
+  start_ms: 38380
+  end_ms: 44050
+- text: But is there something more than that?
+  start_ms: 44050
+  end_ms: 46720
+- text: ''
+  start_ms: 46720
+  end_ms: 49940
+- text: But is there something more than that?
+  start_ms: 49940
+  end_ms: 55400
+- text: But is there something more than that?
+  start_ms: 55400
+  end_ms: 61290
+- text: But is there something more than that?
+  start_ms: 61290
+  end_ms: 64630
+- text: ''
+  start_ms: 64630
+  end_ms: 67020
+- text: But is there something more than that?
+  start_ms: 67020
+  end_ms: 72580
+- text: But is there something more than that?
+  start_ms: 72580
+  end_ms: 78250
+- text: But is there something more than that?
+  start_ms: 78250
+  end_ms: 84120
+- text: But is there something more than that?
+  start_ms: 84120
+  end_ms: 89610
+- text: But is there something more than that?
+  start_ms: 89610
+  end_ms: 95420
+- text: But is there something more than that?
+  start_ms: 95420
+  end_ms: 97910
+- text: ''
+  start_ms: 97910
+  end_ms: 101190
+- text: But is there something more than that?
+  start_ms: 101190
+  end_ms: 102970
+- text: ''
+  start_ms: 102970
+plain: |-
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?
+  But is there something more than that?

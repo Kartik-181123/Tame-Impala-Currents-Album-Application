@@ -1,0 +1,233 @@
+version: '1.0'
+metadata:
+  title: Tame Impala - New Person, Same Old Mistakes (Audio)
+  artist: Tame Impala
+  album: Tame Impala - New Person, Same Old Mistakes (Audio)
+  duration_ms: 365000
+  instrumental: false
+lines:
+- text: I can just hear them now
+  start_ms: 41430
+  end_ms: 44550
+- text: '"How could you let us down?"'
+  start_ms: 44550
+  end_ms: 47360
+- text: But they don't know what I found
+  start_ms: 47360
+  end_ms: 50300
+- text: Or see it from this way 'round
+  start_ms: 50300
+  end_ms: 53880
+- text: Feeling it overtake
+  start_ms: 53880
+  end_ms: 56800
+- text: All that I used to hate
+  start_ms: 56800
+  end_ms: 60190
+- text: One by one, every trait
+  start_ms: 60190
+  end_ms: 62870
+- text: I tried, but it's way too late
+  start_ms: 62870
+  end_ms: 66340
+- text: All the signs I don't read
+  start_ms: 66340
+  end_ms: 69190
+- text: Two sides of me can't agree
+  start_ms: 69190
+  end_ms: 72890
+- text: Will I be in too deep?
+  start_ms: 72890
+  end_ms: 75740
+- text: Going with what I always longed for
+  start_ms: 75740
+  end_ms: 82810
+- text: Feel like a brand new person (but you'll make the same old mistakes)
+  start_ms: 82810
+  end_ms: 87470
+- text: I don't care, I'm in love (stop before it's too late, I know)
+  start_ms: 87470
+  end_ms: 95500
+- text: Feel like a brand new person (but you'll make the same old mistakes)
+  start_ms: 95500
+  end_ms: 99670
+- text: I finally know what it's like (you don't have what it takes)
+  start_ms: 99670
+  end_ms: 104390
+- text: Stop before it's too late, I know there's too much at stake
+  start_ms: 104390
+  end_ms: 110440
+- text: Making the same mistakes (and I still don't know why it's happening)
+  start_ms: 110440
+  end_ms: 116900
+- text: Stop while it's not too late (and I still don't know)
+  start_ms: 116900
+  end_ms: 123320
+- text: Finally taking flight
+  start_ms: 123320
+  end_ms: 125990
+- text: I know you don't think it's right
+  start_ms: 125990
+  end_ms: 129020
+- text: I know that you think it's fake
+  start_ms: 129020
+  end_ms: 132220
+- text: Maybe fake's what I like
+  start_ms: 132220
+  end_ms: 135200
+- text: The point is, I have the right
+  start_ms: 135200
+  end_ms: 138340
+- text: Not thinking in black and white
+  start_ms: 138340
+  end_ms: 141750
+- text: I'm thinking it's worth the fight
+  start_ms: 141750
+  end_ms: 145600
+- text: Soon to be out of sight
+  start_ms: 145600
+  end_ms: 148720
+- text: Knowing it all this time
+  start_ms: 148720
+  end_ms: 151620
+- text: Going with what I always longed for
+  start_ms: 151620
+  end_ms: 158760
+- text: Feel like a brand new person (but you'll make the same old mistakes)
+  start_ms: 158760
+  end_ms: 162730
+- text: I don't care, I'm in love (stop before it's too late)
+  start_ms: 162730
+  end_ms: 171060
+- text: Feel like a brand new person (but you'll make the same old mistakes)
+  start_ms: 171060
+  end_ms: 175300
+- text: So how will I know I've gone too far? (You don't have what it takes)
+  start_ms: 175300
+  end_ms: 180090
+- text: Stop before it's too late
+  start_ms: 180090
+  end_ms: 184150
+- text: Man, I know that it's hard to digest
+  start_ms: 184150
+  end_ms: 190980
+- text: But maybe your story ain't so different from the rest
+  start_ms: 190980
+  end_ms: 197090
+- text: And I know it seems wrong to accept
+  start_ms: 197090
+  end_ms: 203750
+- text: But you've got your demons, and she's got her regrets
+  start_ms: 203750
+  end_ms: 209640
+- text: And I know that it's hard to digest
+  start_ms: 209640
+  end_ms: 216350
+- text: A realization is as good as a guess
+  start_ms: 216350
+  end_ms: 221840
+- text: And I know it seems wrong to accept
+  start_ms: 221840
+  end_ms: 228950
+- text: But you've got your demons, and she's got her regrets
+  start_ms: 228950
+  end_ms: 235380
+- text: But you've got your demons, and she's got her regrets
+  start_ms: 235380
+  end_ms: 243280
+- text: ''
+  start_ms: 243280
+  end_ms: 278450
+- text: Feel like a brand new person, so how will I know that it's right?
+  start_ms: 278450
+  end_ms: 288530
+- text: ''
+  start_ms: 288530
+  end_ms: 291310
+- text: In a new direction, so how will I know I've gone too far?
+  start_ms: 291310
+  end_ms: 302180
+- text: (Stop thinking that the only option was) I feel like a brand new person
+  start_ms: 302180
+  end_ms: 307820
+- text: I finally know what it's like (stop thinking that the only option was)
+  start_ms: 307820
+  end_ms: 317130
+- text: In a new direction, so how will I know I've gone too far?
+  start_ms: 317130
+  end_ms: 327350
+- text: (Stop thinking that the only option was)
+  start_ms: 327350
+  end_ms: 333360
+- text: And I know it's hard to describe
+  start_ms: 333360
+  end_ms: 340370
+- text: (Stop thinking that the only option was) in a new direction
+  start_ms: 340370
+  end_ms: 346690
+- text: So how will I know that it's right?
+  start_ms: 346690
+  end_ms: 350480
+- text: ''
+  start_ms: 350480
+plain: |-
+  I can just hear them now
+  "How could you let us down?"
+  But they don't know what I found
+  Or see it from this way 'round
+
+  Feeling it overtake
+  All that I used to hate
+  One by one, every trait
+  I tried, but it's way too late
+  All the signs I don't read
+  Two sides of me can't agree
+  Will I be in too deep?
+  Going with what I always longed for
+
+  Feel like a brand new person (but you'll make the same old mistakes)
+  I don't care, I'm in love (stop before it's too late, I know)
+  Feel like a brand new person (but you'll make the same old mistakes)
+  I finally know what it's like (you don't have what it takes)
+
+  Stop before it's too late, I know there's too much at stake
+  Making the same mistakes (and I still don't know why it's happening)
+  Stop while it's not too late (and I still don't know)
+
+  Finally taking flight
+  I know you don't think it's right
+  I know that you think it's fake
+  Maybe fake's what I like
+  The point is, I have the right
+  Not thinking in black and white
+  I'm thinking it's worth the fight
+  Soon to be out of sight
+  Knowing it all this time
+  Going with what I always longed for
+
+  Feel like a brand new person (but you'll make the same old mistakes)
+  I don't care, I'm in love (stop before it's too late)
+  Feel like a brand new person (but you'll make the same old mistakes)
+  So how will I know I've gone too far? (You don't have what it takes)
+  Stop before it's too late
+
+  Man, I know that it's hard to digest
+  But maybe your story ain't so different from the rest
+  And I know it seems wrong to accept
+  But you've got your demons, and she's got her regrets
+  And I know that it's hard to digest
+  A realization is as good as a guess
+  And I know it seems wrong to accept
+  But you've got your demons, and she's got her regrets
+  But you've got your demons, and she's got her regrets
+
+  Feel like a brand new person, so how will I know that it's right?
+  In a new direction, so how will I know I've gone too far?
+  (Stop thinking that the only option was) I feel like a brand new person
+  I finally know what it's like (stop thinking that the only option was)
+  In a new direction, so how will I know I've gone too far?
+  (Stop thinking that the only option was)
+
+  And I know it's hard to describe
+  (Stop thinking that the only option was) in a new direction
+  So how will I know that it's right?
