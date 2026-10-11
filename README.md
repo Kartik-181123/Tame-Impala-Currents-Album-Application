@@ -1,32 +1,9 @@
-# React + TypeScript + Vite
+ Copyright & Fair Use Disclaimer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This project is an open-source, non-commercial software application created strictly for educational, portfolio, and personal fair use purposes.
 
-Currently, two official plugins are available:
+Music & Lyrics: All musical compositions, sound recordings, audio masters, and lyrics for the album "Currents" are the intellectual property of Kevin Parker / Tame Impalaand their respective record labels (Modular Recordings / Interscope Records / Universal Music Group).
+- Artwork & Trademarks: All album artwork, logos, and artist names are trademarks and copyrights of their respective owners.
+- No Monetization: This software is completely free, non-monetized, and not affiliated with, endorsed by, or sponsored by Tame Impala, Modular Recordings, or Universal Music Group.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+If you are a copyright holder and wish for any copyrighted materials to be removed or replaced with sample audio, please submit an issue or contact the repository owner directly.
